@@ -5,7 +5,7 @@ This is my portfolio powered by Vue3, TailwindCSS, ThreeJS and AnimeJS.
 
 All of the features within this project are frontend only, there are no involvement with any backend frameworks or similar.
 
-View the production deployment of this project on [here](https://kuon-dev-portfolio.vercel.app)
+View the production deployment of this project on [here](https://my-portfolio-kunnew.vercel.app)
 
 <h2 align="center">
   <img src="./doc/preview.png" alt="preview" />
